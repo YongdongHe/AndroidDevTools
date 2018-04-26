@@ -1,5 +1,5 @@
 # DevTools
-提高安卓开发效率的小工具
+提高安卓开发效率的小工具收集，避免重复造轮子。
 
 # List
 | Name | Description | Reference |
